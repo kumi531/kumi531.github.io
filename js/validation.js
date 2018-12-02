@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Vitality v3.0.1 (https://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2018 Start Bootstrap
- * Licensed under  (https://github.com/BlackrockDigital/startbootstrap-vitality/blob/master/LICENSE)
- */
-
 /* jqBootstrapValidation
  * A plugin for automating validation on Twitter Bootstrap formatted forms.
  *
